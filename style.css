@@ -1,1 +1,46 @@
+body {
+    background-color: #FFC0CB;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.top-nav {
+    background-color: #DB7093;
+    padding: 10px;
+}
+
+.top-nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.top-nav a {
+    text-decoration: none;
+    color: white;
+}
+
+.main-section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.animated-image {
+    text-align: center;
+}
+
+.animated-image img {
+    max-width: 100%;
+}
+
+.buttons {
+    margin-top: 10px;
+}
+
+/* Add more styling as needed */
 
